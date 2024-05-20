@@ -10,6 +10,17 @@ The idea is to do an AutoML run on  bank marketing dataset and deploy the best p
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+Load Data & create a dataset
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/1d468bdc-7db6-4c61-b905-ed7682a8dede)
+Create Compute
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/ef20184c-92bf-4f2c-ad3c-68841c8bbf0a)
+Execute AUTOML job
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/9827dcd0-eb03-4a68-b550-ec98dd67d794)
+Identify the best performing model & look at the Explanations
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/1c28e98a-9ccc-42ab-bbc1-ff608e90eb94)
+Deploy Model
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/689049da-f049-458e-8f38-0a20e22f9f53)
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
