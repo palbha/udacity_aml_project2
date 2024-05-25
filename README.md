@@ -25,7 +25,6 @@ Submitted AUTOML Job
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/de752326-2cc3-4503-9868-a4aa152999f1)
 
 Evaluating results for AUTOML job
-![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/3ca40cec-b338-409e-a6ac-471fc8e1411d)
 
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/9827dcd0-eb03-4a68-b550-ec98dd67d794)
 Identify the best performing model & look at the Explanations
