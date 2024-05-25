@@ -17,6 +17,7 @@ Dataset from - https://automlsamplenotebookdata.blob.core.windows.net/automl-sam
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/19dbed5b-2f9e-48b4-af1d-818c32009715)
 
 
+
 Create Compute
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/aa273113-e82a-40d3-b74a-0845a5ee6dfa)
 
@@ -45,8 +46,16 @@ Since I was just running this in AML directly was able to test from the platform
 Also Called it from Python Code
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/e00f1aed-014b-4804-b826-e296cc249c0f)
 
+
+Run the Publish Pipelines 
+
+https://github.com/palbha/udacity_aml_project2/blob/master/Exercise_starter_files/aml-pipelines-with-automated-machine-learning-step.ipynb
+
+Utilized the baove notebook to run and publish pipliens (Covered view in the below video link)
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Link for the recording
+https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_145305.webm
+https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_150740.webm
 
 ## Standout Suggestions
 Few things that can be done in future
