@@ -6,10 +6,11 @@ The idea is to do an AutoML run on  bank marketing dataset and deploy the best p
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/484beaae-9056-4d56-9ada-0fbfaf851e68)
+
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+Key Steps & Corresponding Snapshots
 Load Data & create a dataset
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/3688fa79-cd6a-4ccd-a9e5-2508449871ab)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/19dbed5b-2f9e-48b4-af1d-818c32009715)
@@ -48,5 +49,9 @@ Also Called it from Python Code
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+Few things that can be done in future
+Do indepth exploratory data analysis to come up with new features & analyse /cleanse data
+Handle data imbalance by appropriate technique like smote
+We can enable deep learning & also run the model for a longer duration
+Analyse predicted output to identify potential improvement opportunities
 
