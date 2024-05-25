@@ -12,6 +12,7 @@ The idea is to do an AutoML run on  bank marketing dataset and deploy the best p
 ## Key Steps
 Key Steps & Corresponding Snapshots
 Load Data & create a dataset
+Dataset from - https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/3688fa79-cd6a-4ccd-a9e5-2508449871ab)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/19dbed5b-2f9e-48b4-af1d-818c32009715)
 
