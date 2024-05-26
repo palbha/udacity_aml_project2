@@ -48,7 +48,10 @@ Consume Model
 
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/e0d5c775-1320-417e-9685-ff625f0ba670)
 
-![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/fe144dda-8ba8-48a9-bf19-af97b0dcba6c)
+Swagger Snapshots
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/216747e5-9bab-4e65-874f-5db53fba1096)
+
+
 Create Pipeline
 
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/98f0dc08-4a0f-4b72-8304-6c7e245446ed)
