@@ -53,8 +53,8 @@ Swagger Snapshots
 
 
 Create Pipeline
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/f29cef23-3227-449d-a97a-a7737cde45cd)
 
-![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/98f0dc08-4a0f-4b72-8304-6c7e245446ed)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/b3da93f5-fa09-40e6-be92-bb542622fadc)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/6329e901-207f-47ce-8800-09115493f58c)
 
