@@ -71,7 +71,7 @@ https://github.com/palbha/udacity_aml_project2/blob/master/Exercise_starter_file
 
 Utilized the above notebook to run and publish pipliens (Covered view in the below video link)
 ## Screen Recording
-Link for the recording
+Link for the recording - (Unable to compile the recordings) - Please go through all three
 https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_145305.webm
 https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_150740.webm
 https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240526_125546.webm -- Added new recording based on the feedback recieved
