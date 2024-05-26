@@ -15,7 +15,11 @@ Load Data & create a dataset
 Dataset from - https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/3688fa79-cd6a-4ccd-a9e5-2508449871ab)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/19dbed5b-2f9e-48b4-af1d-818c32009715)
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/357b284c-0ee2-4431-a6ab-8bd8be236338)
 
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/4b3a313c-50b5-4163-b95d-9cf5c9f89b55)
+Snapshot of jobs using this dataset as well
+ ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/914f7f52-3b0c-438f-8232-c4224a5044f1)
 
 
 Create Compute
@@ -50,6 +54,7 @@ Also Called it from Python Code
 Run the Publish Pipelines 
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/d1d29d75-990f-4c4a-99be-17b14d066fd3)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/7a5bcce5-89cd-43df-8720-916d56fd2486)
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/3cb45bf1-f88c-4f6d-973e-1e097c3cb6b2)
 
 https://github.com/palbha/udacity_aml_project2/blob/master/Exercise_starter_files/aml-pipelines-with-automated-machine-learning-step.ipynb
 
