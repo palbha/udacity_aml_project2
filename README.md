@@ -48,6 +48,8 @@ Also Called it from Python Code
 
 
 Run the Publish Pipelines 
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/d1d29d75-990f-4c4a-99be-17b14d066fd3)
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/7a5bcce5-89cd-43df-8720-916d56fd2486)
 
 https://github.com/palbha/udacity_aml_project2/blob/master/Exercise_starter_files/aml-pipelines-with-automated-machine-learning-step.ipynb
 
