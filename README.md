@@ -37,11 +37,14 @@ Identify the best performing model & look at the Explanations
 
 Deploy Model
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/39bc6c6d-feb9-4108-93a3-80bd6164452b)
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/428f82ee-f71f-46aa-aa49-43273496906c)
 
 Enable Application insights
+![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/a2e2c55a-e634-422a-96c1-507d42726ba1)
 
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/fe144dda-8ba8-48a9-bf19-af97b0dcba6c)
 ![image](https://github.com/palbha/udacity_aml_project2/assets/20269788/a5f43a65-3e00-43e9-8211-c25fafa8e0b4)
+
 
 Since I was just running this in AML directly was able to test from the platform itself .
 
