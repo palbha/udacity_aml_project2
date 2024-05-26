@@ -66,6 +66,7 @@ Utilized the baove notebook to run and publish pipliens (Covered view in the bel
 Link for the recording
 https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_145305.webm
 https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240525_150740.webm
+https://github.com/palbha/udacity_aml_project2/blob/master/Recording-20240526_125546.webm -- Added new recording based on the feedback recieved
 
 ## Standout Suggestions
 Few things that can be done in future
